@@ -103,7 +103,7 @@ body {
 .dialog-box {
   position: fixed;
   top: -100px;
-  left: 50%;
+  left: 55%;
   transform: translateX(-50%);
   padding: 20px;
   background-color: white;

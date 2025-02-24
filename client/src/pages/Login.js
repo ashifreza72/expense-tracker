@@ -23,7 +23,7 @@ function Login() {
 
   return (
     <div>
-      <h2>Login</h2>
+      <h2>Login user</h2>
       <form onSubmit={handleLogin}>
         <input
           type='email'
